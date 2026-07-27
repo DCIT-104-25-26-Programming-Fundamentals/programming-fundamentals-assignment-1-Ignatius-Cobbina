@@ -116,7 +116,6 @@ def multiply_matrices(A, B):
 
 
 if __name__ == "__main__":
-    # Example run for transpose
     print("=== Part A: Transpose ===")
     r = int(input("Enter number of rows: "))
     c = int(input("Enter number of columns: "))
